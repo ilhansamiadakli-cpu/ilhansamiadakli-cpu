@@ -2,7 +2,7 @@
 
 **Karadeniz Teknik Üniversitesi (KTÜ) Of Teknoloji Fakültesi'nde Yazılım Mühendisliği Öğrencisi**
 
-*Düşük seviye sistem programlama, oyun motoru geliştirme, özel derleme sistemleri (build systems) ve C/C++ & Java ile metin ayrıştırıcı (parser) tasarımı üzerine odaklanıyorum.*
+*Düşük seviye sistem programlama, oyun motoru geliştirme ve C/C++ & Java ile metin ayrıştırıcı (parser) tasarımı üzerine odaklanıyorum.*
 
 <p align="center">
   <a href="mailto:ilhansamiadakli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
