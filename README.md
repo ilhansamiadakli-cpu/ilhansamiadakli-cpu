@@ -23,10 +23,10 @@
       <h3>💻 Şu An Geliştirdiğim Repolar</h3>
       <ul>
         <li><b><a href="https://github.com/ilhansamiadakli-cpu/voidEngine">voidEngine</a>:</b> C ile geliştirilmiş açık kaynaklı terminal oyun motoru.</li>
-        <li><b><a href="https://github.com/ilhansamiadakli-cpu/terminal-based-RPG-game">terminal-based-RPG-game</a>:</b> ASCII renk kodlarıyla süslenmiş, terminal üzerinden oynanan sıra tabanlı ilk RPG oyun projem.[cite: 4]</li>
-        <li><b><a href="https://github.com/ilhansamiadakli-cpu/C-Cpp-Laboratory">C-Cpp-Laboratory</a>:</b> Belirli bir projeye hizmet etmeyen, kişisel C/C++ deneme kodlarımı ve donanıma yakın algoritmik testlerimi barındırdığım repo.[cite: 4]</li>
-        <li><b><a href="https://github.com/ilhansamiadakli-cpu/Java--.java--laboratory">Java--.java--laboratory</a>:</b> Java öğrenirken yaptığım küçük projelerin ana merkezi.[cite: 4]</li>
-        <li><b><a href="https://github.com/ilhansamiadakli-cpu/26-27-Veritaban-projesi">26-27-Veritaban-projesi</a>:</b> TSQL kullanarak hazırladığım veri tabanı ve yönetimi dersi ödev reposu.[cite: 4]</li>
+        <li><b><a href="https://github.com/ilhansamiadakli-cpu/terminal-based-RPG-game">terminal-based-RPG-game</a>:</b> ASCII renk kodlarıyla süslenmiş, terminal üzerinden oynanan sıra tabanlı ilk RPG oyun projem.</li>
+        <li><b><a href="https://github.com/ilhansamiadakli-cpu/C-Cpp-Laboratory">C-Cpp-Laboratory</a>:</b> Belirli bir projeye hizmet etmeyen, kişisel C/C++ deneme kodlarımı ve donanıma yakın algoritmik testlerimi barındırdığım repo.</li>
+        <li><b><a href="https://github.com/ilhansamiadakli-cpu/Java--.java--laboratory">Java--.java--laboratory</a>:</b> Java öğrenirken yaptığım küçük projelerin ana merkezi.</li>
+        <li><b><a href="https://github.com/ilhansamiadakli-cpu/26-27-Veritaban-projesi">26-27-Veritaban-projesi</a>:</b> TSQL kullanarak hazırladığım veri tabanı ve yönetimi dersi ödev reposu.</li>
       </ul>
     </td>
   </tr>
