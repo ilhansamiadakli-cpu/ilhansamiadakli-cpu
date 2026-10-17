@@ -1,4 +1,4 @@
-# Merhaba, Ben İlhan Sami Adaklı 👋
+# İlhan Sami Adaklı
 
 **Karadeniz Teknik Üniversitesi (KTÜ) Yazılım Mühendisliği Öğrencisi**
 
