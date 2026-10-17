@@ -1,8 +1,8 @@
 # Merhaba, Ben İlhan Sami Adaklı 👋
 
-**Karadeniz Teknik Üniversitesi (KTÜ) Of Teknoloji Fakültesi'nde Yazılım Mühendisliği Öğrencisi**
+**Karadeniz Teknik Üniversitesi (KTÜ) Yazılım Mühendisliği Öğrencisi**
 
-*Düşük seviye sistem programlama, oyun motoru geliştirme ve C/C++ & Java ile metin ayrıştırıcı (parser) tasarımı üzerine odaklanıyorum.*
+*Özellikle C/C++ ile düşük seviyeli (low-level) sistem programlama ve çalışma zamanı (runtime) mimarileri geliştirme üzerine bir kariyer inşa etmeye odaklanıyorum.*
 
 <p align="center">
   <a href="mailto:ilhansamiadakli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -12,21 +12,21 @@
 <table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Hakkımda</h3>
+      <h3>🚀 Kariyer Odağım ve Yeteneklerim</h3>
       <ul>
-        <li>🎓 <b>Eğitim:</b> Karadeniz Teknik Üniversitesi (KTÜ), Yazılım Mühendisliği.</li>
-        <li>🛠️ <b>Temel Odak:</b> C ve C++ ile düşük seviyeli programlama, Java, oyun motoru mimarisi, veri yapıları ve AST parser tasarımı.</li>
-        <li>💻 <b>Çalışma Ortamı:</b> macOS (Apple Silicon), UTM üzerinden Kali Linux; araç olarak CLion, IntelliJ IDEA Ultimate, VS Code, CMake, Make ve GCC/Clang.</li>
-        <li>🌱 <b>Şu an Öğrendiklerim:</b> Rust programlama dili (rustlings) ve gömülü sistemler.</li>
+        <li>⚙️ <b>Sistem & Runtime:</b> C ve C++ dilleriyle donanıma yakın, bellek yönetiminin (memory management) kritik olduğu düşük seviyeli mimariler ve çalışma zamanı (runtime) ortamları tasarlamak ana kariyer hedefim.</li>
+        <li>🛠️ <b>Mimari Odak:</b> Oyun motoru çekirdekleri (engine cores), özel AST parser/lexer sistemleri ve programlanabilir araçlar.</li>
+        <li>💻 <b>Geliştirme Ortamım:</b> macOS (Apple Silicon), UTM üzerinden Kali Linux; toolchain olarak CLion, VS Code, CMake, Make, GCC/Clang ve LLDB.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🎯 Mevcut Odak ve Hedefler</h3>
+      <h3>💻 Şu An Geliştirdiğim Repolar</h3>
       <ul>
-        <li><b><a href="https://github.com/ilhansamiadakli-cpu/voidEngine">voidEngine</a>:</b> C ile geliştirilmiş, çift arabellekleme (double-buffered) özellikli açık kaynaklı terminal oyun motoru.</li>
-        <li><b>VodScript:</b> .vod markup dosyalarını JSON'a dönüştüren C++ tabanlı programlanabilir lexer/parser mimarisi.</li>
-        <li><b>Vortex:</b> Lua ve TML tabanlı terminal tarayıcı motoru.</li>
-        <li><b>Laboratuvarlar:</b> <code>Java--.java--laboratory</code> ve <code>C-Cpp-Laboratory</code> depolarında aktif algoritmik ve OOP denemeleri.</li>
+        <li><b><a href="https://github.com/ilhansamiadakli-cpu/voidEngine">voidEngine</a>:</b> C ile geliştirilmiş açık kaynaklı terminal oyun motoru.</li>
+        <li><b><a href="https://github.com/ilhansamiadakli-cpu/terminal-based-RPG-game">terminal-based-RPG-game</a>:</b> ASCII renk kodlarıyla süslenmiş, terminal üzerinden oynanan sıra tabanlı ilk RPG oyun projem.[cite: 4]</li>
+        <li><b><a href="https://github.com/ilhansamiadakli-cpu/C-Cpp-Laboratory">C-Cpp-Laboratory</a>:</b> Belirli bir projeye hizmet etmeyen, kişisel C/C++ deneme kodlarımı ve donanıma yakın algoritmik testlerimi barındırdığım repo.[cite: 4]</li>
+        <li><b><a href="https://github.com/ilhansamiadakli-cpu/Java--.java--laboratory">Java--.java--laboratory</a>:</b> Java öğrenirken yaptığım küçük projelerin ana merkezi.[cite: 4]</li>
+        <li><b><a href="https://github.com/ilhansamiadakli-cpu/26-27-Veritaban-projesi">26-27-Veritaban-projesi</a>:</b> TSQL kullanarak hazırladığım veri tabanı ve yönetimi dersi ödev reposu.[cite: 4]</li>
       </ul>
     </td>
   </tr>
